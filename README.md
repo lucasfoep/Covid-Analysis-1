@@ -2,7 +2,7 @@
 
 ### What does it do?
 
-It's a sequence of queries that reads and manipulates a csv file into insightful tables to later be visualized in a Tableau dashboard.
+Reads and manipulates a csv file into insightful tables, to later be visualized in a Tableau dashboard, through a series of SQL queries.
 
 ### What were the tools used?
 
